@@ -1,0 +1,11 @@
+{
+  "name": "dungeons-and-dragons",
+  "version": "1.0.0",
+  "description": "a webpage that stores information about dungeons and dragons characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
